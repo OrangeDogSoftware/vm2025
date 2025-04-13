@@ -1,0 +1,8 @@
+[package]
+name = "vm2025"
+version = "0.1.0"
+edition = "2021"
+authors = ["OrangeDogSoftware"]
+description = "VM 2025 project"
+
+[dependencies]
